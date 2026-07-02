@@ -73,7 +73,7 @@ The path is reconstructed backward using the `choice` table to recover the
 actual stint sequence (which compound, which laps) that achieves the optimal
 total time.
 
-## Extending this project (good next steps for your resume)
+## Extending this project
 
 1. **Real data**: Replace the illustrative numbers in `data.py` with real
    telemetry using the [FastF1](https://github.com/theOehrly/Fast-F1) Python
